@@ -5,7 +5,7 @@
   define("INSTANCE_TOKEN", "!!! ADD A MASTODON ACCESS TOKEN HERE !!!");
 
   # set the URL of the Mastodon instance
-  define("INSTANCE_URL", "https://chaos.social");
+  define("INSTANCE_URL", "https://botsin.space");
 
   # set the description of the image
   define("MEDIA_DESCRIPTION", "Patrick Star liegt in seinem Bett und isst einen Krabbenburger.");
